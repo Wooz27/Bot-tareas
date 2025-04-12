@@ -34,14 +34,14 @@ Elija el número de la tarea que desea marcar como completada
 La tarea no se eliminará, solo cambiará su estado
 
 
-4. Modificar una tarea
-Seleccione la opción 4 para editar una tarea existente
-Útil para corregir errores o actualizar información
-
-
-5. Eliminar tareas
-Seleccione la opción 5 para borrar permanentemente una tarea
+4. Eliminar tareas
+Seleccione la opción 4 para borrar permanentemente una tarea
 Esta acción no se puede deshacer
+
+
+5. Modificar una tarea Seleccione la opción 5 para editar una tarea existente Útil para corregir errores o actualizar información
+
+
 
 6. Salir del programa
 Basta con seleccionar la opcion 6 para cerrar el programa
